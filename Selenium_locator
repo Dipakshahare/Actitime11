@@ -1,3 +1,4 @@
+This are the locators in selenium
 driver.findelementBy.id
 driver.findelementBy.class
 driver.findelementBy.name
@@ -6,3 +7,4 @@ driver.findelementBy.linktext
 driver.findelementBy.partiallinktext
 driver.findelementBy.css
 driver.findelementBy.Xpath
+
